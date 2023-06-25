@@ -1,6 +1,6 @@
 # Cash-Flow-Forecasting-using-Prophet
 
-This project was made for Shell Net Cash Flow Datathon. With this project,  8th place was achieved in the competition. All information about Shell Datathon is in the Kaggle.
+This project was made for Shell Net Cash Flow Datathon. With this project,  8th place was achieved in the competition. All information about Shell Datathon is in the [Kaggle](https://www.kaggle.com/competitions/new-shell-cashflow-datathon-2023).
 
 **General Information about code:**
 
