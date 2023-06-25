@@ -5,5 +5,5 @@ We can not share the data because of privacy.  Also, we made a Web application f
 The application calculates and shows the result for you. Also, you can download the forecasting results.
 
 
-https://github.com/gamzeakkurt/Cash-Flow-Forecasting-using-Prophet/assets/37912287/977880fa-4e06-41c3-b00c-ad1eab16f490
+
 
